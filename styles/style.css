@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{margin: 0px;
+padding: 0px;}
+#hero{
+   
+position:absolute;
+width: 1920px;
+height: 919px;
+left: 0px;
+top: 0px;
+transform: rotate(3600deg);
+    background-image: linear-gradient(0deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%), url('../assets/hero-bg.png');
+    background-size: cover;
+     
+}
